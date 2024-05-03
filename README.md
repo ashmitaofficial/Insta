@@ -1,0 +1,5 @@
+![Screenshot_20240504-000646_Insta_RecyclerView](https://github.com/ashmitaofficial/Insta/assets/168858244/5b73b288-95ea-4800-aad7-5275c53e2c0e)
+![Screenshot_20240504-000750_Insta_RecyclerView](https://github.com/ashmitaofficial/Insta/assets/168858244/51009656-82a8-40d6-9c4f-495567580094)
+![Screenshot_20240504-002123_Insta_RecyclerView](https://github.com/ashmitaofficial/Insta/assets/168858244/df6b68b8-9443-49e3-be02-225b48fcaa32)
+![Screenshot_20240504-002132_Insta_RecyclerView](https://github.com/ashmitaofficial/Insta/assets/168858244/f7a5602e-5669-4bb2-8172-a28300ef827c)
+![Screenshot_20240504-004050_Swiggy_layout](https://github.com/ashmitaofficial/Insta/assets/168858244/f80bf0ae-8bf6-40f0-a9fd-eb94ddbc2d11)
